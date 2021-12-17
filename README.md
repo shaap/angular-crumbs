@@ -1,5 +1,7 @@
 # Angular Breadcrumb
 
+Upgraded to angular 13
+
 ## Installation
 
 ```shell
@@ -46,8 +48,6 @@ export const rootRouterConfig: Routes = [
 #### 3. Update the markup
 - Import the `style.css` into your web page
 - Add `<breadcrumb></breadcrumb>` tag in template of your application component.
-
-## Demo [(live)](https://emilol.github.io/angular-crumbs)
 
 ## Customization
 
